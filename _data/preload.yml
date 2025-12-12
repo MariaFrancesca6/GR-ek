@@ -57,6 +57,177 @@ settings: {}
 version: '2.1'
 vocab:
 - label: Jackson Pollock
+  uri: https://www.wikidata.org/wiki/Q37571
+- label: Raffaello Sanzio
+  uri: https://www.wikidata.org/wiki/Q5597
+- label: Guido Reni
+  uri: https://www.wikidata.org/wiki/Q109061
+- label: Cimabue
+  uri: https://www.wikidata.org/wiki/Q15790
+- label: Giorgio Morandi
+  uri: https://www.wikidata.org/wiki/Q309618
+- label: El Greco
+  uri: https://www.wikidata.org/wiki/Q301
+- label: Henri Rousseau
+  uri: https://www.wikidata.org/wiki/Q156386
+- label: Denijs Calvaert
+  uri: https://www.wikidata.org/wiki/Q544264
+- Carracci
+- label: Annibale Carracci
+  uri: https://www.wikidata.org/wiki/Q7824
+- label: Francesco Albani
+  uri: https://www.wikidata.org/wiki/Q358147
+- label: Domenico Zampieri detto il Domenichino
+  uri: https://www.wikidata.org/wiki/Q320118
+- label: Michelangelo da Caravaggio
+  uri: https://www.wikidata.org/wiki/Q42207
+- label: Peter Paul Rubens
+  uri: https://www.wikidata.org/wiki/Q5599
+- label: Gustave Courbet
+  uri: https://www.wikidata.org/wiki/Q34618
+- label: Jean-Auguste-Dominique Ingres
+  uri: https://www.wikidata.org/wiki/Q23380
+- label: Piero della Francesca
+  uri: https://www.wikidata.org/wiki/Q5822
+- label: Lorenzo Lotto
+  uri: https://www.wikidata.org/wiki/Q310973
+- label: Beato Angelico
+  uri: https://www.wikidata.org/wiki/Q5664
+- label: Jusepe de Ribera
+  uri: https://www.wikidata.org/wiki/Q297838
+- label: Giovanni Battista Caracciolo
+  uri: https://www.wikidata.org/wiki/Q2519261
+- label: Bernardo Cavallino
+  uri: https://www.wikidata.org/wiki/Q822982
+- label: Giulio Romano
+  uri: https://www.wikidata.org/wiki/Q215305
+- label: Antoon van Dyck
+  uri: https://www.wikidata.org/wiki/Q150679
+- label: Sofonisba Anguissola
+  uri: https://www.wikidata.org/wiki/Q236038
+- label: Albrecht Durer
+  uri: https://www.wikidata.org/wiki/Q5580
+- label: Ludovico Carracci
+  uri: https://www.wikidata.org/wiki/Q380553
+- label: Giovanni Giacomo Sementi
+  uri: https://www.wikidata.org/wiki/Q1033182
+- label: Francesco Gessi
+  uri: https://www.wikidata.org/wiki/Q628268
+- label: Rembrandt
+  uri: https://www.wikidata.org/wiki/Q5598
+- label: Pontormo
+  uri: https://www.wikidata.org/wiki/Q207929
+- label: Leonardo da Vinci
+  uri: https://www.wikidata.org/wiki/Q762
+- label: Michelangelo Buonarroti
+  uri: https://www.wikidata.org/wiki/Q5592
+- label: Filippo De Pisis (Luigi Filippo Tibertelli)
+  uri: https://www.wikidata.org/wiki/Q661473
+- label: Rosso Fiorentino
+  uri: https://www.wikidata.org/wiki/Q312617
+- label: Francesco Mazzola detto il Parmigianino
+  uri: https://www.wikidata.org/wiki/Q9348
+- label: Domenico Beccafumi
+  uri: https://www.wikidata.org/wiki/Q455712
+- label: Cennino Cennini
+  uri: https://www.wikidata.org/wiki/Q220813
+- label: Maso di Banco
+  uri: https://www.wikidata.org/wiki/Q514664
+- label: Giottino
+  uri: https://www.wikidata.org/wiki/Q947337
+- label: Andrea Orcagna
+  uri: https://www.wikidata.org/wiki/Q366499
+- label: Giotto
+  uri: https://www.wikidata.org/wiki/Q7814
+- label: Paolo Uccello
+  uri: https://www.wikidata.org/wiki/Q192488
+- label: Filippo Lippi
+  uri: https://www.wikidata.org/wiki/Q205148
+- label: Sandro Botticelli
+  uri: https://www.wikidata.org/wiki/Q5669
+- label: Maestro del Chiostro degli Aranci (Giovanni di Consalvo)
+  uri: https://www.wikidata.org/wiki/Q10311568
+- label: Amedeo Modigliani
+  uri: https://www.wikidata.org/wiki/Q120993
+- label: "Carlo Carr\xE0"
+  uri: https://www.wikidata.org/wiki/Q168496
+- label: "Andr\xE8 Derain"
+  uri: https://www.wikidata.org/wiki/Q156272
+- label: Giorgio De Chirico
+  uri: https://www.wikidata.org/wiki/Q156622
+- label: Alberto Savinio
+  uri: https://www.wikidata.org/wiki/Q691973
+- label: Pablo Picasso
+  uri: https://www.wikidata.org/wiki/Q5593
+- label: Nicolas Poussin
+  uri: https://www.wikidata.org/wiki/Q41554
+- label: Claude Lorrain
+  uri: https://www.wikidata.org/wiki/Q214074
+- label: "Jean-Honor\xE9 Fragonard"
+  uri: https://www.wikidata.org/wiki/Q127171
+- label: Hubert Robert
+  uri: https://www.wikidata.org/wiki/Q548205
+- label: Jacques-Louis David
+  uri: https://www.wikidata.org/wiki/Q83155
+- label: "Th\xE9odore G\xE9ricault"
+  uri: https://www.wikidata.org/wiki/Q184212
+- label: Jean-Baptiste Camille Corot
+  uri: https://www.wikidata.org/wiki/Q148475
+- label: Pierre-Auguste Renoir
+  uri: https://www.wikidata.org/wiki/Q39931
+- label: "Diego Vel\xE1zquez"
+  uri: https://www.wikidata.org/wiki/Q297
+- label: "Eug\xE8ne Delacroix"
+  uri: https://www.wikidata.org/wiki/Q33477
+- label: Antonio Allegri detto il Correggio
+  uri: https://www.wikidata.org/wiki/Q8457
+- label: Jean-Baptiste Greuze
+  uri: https://www.wikidata.org/wiki/Q347139
+- label: "Fran\xE7ois Boucher"
+  uri: https://www.wikidata.org/wiki/Q180932
+- label: Pisanello
+  uri: https://www.wikidata.org/wiki/Q311082
+- Jean de Bruges
+- label: Lorenzo Bartolini
+  uri: https://www.wikidata.org/wiki/Q693288
+- label: Andrea del Sarto
+  uri: https://www.wikidata.org/wiki/Q5571
+- label: Fra Bartolomeo
+  uri: https://www.wikidata.org/wiki/Q7780
+- label: Francesco Salviati
+  uri: https://www.wikidata.org/wiki/Q704594
+- label: Agnolo Bronzino
+  uri: https://www.wikidata.org/wiki/Q7803
+- label: Masaccio
+  uri: https://www.wikidata.org/wiki/Q5811
+- label: "Fran\xE7ois Marius Granet"
+  uri: https://www.wikidata.org/wiki/Q964812
+- label: "Paul C\xE9zanne"
+  uri: https://www.wikidata.org/wiki/Q35548
+- label: Auguste Comte
+  uri: https://www.wikidata.org/wiki/Q12718
+- label: "Honor\xE9 Daumier"
+  uri: https://www.wikidata.org/wiki/Q187506
+- label: "Francisco de Zurbar\xE1n"
+  uri: https://www.wikidata.org/wiki/Q209615
+- label: Donatello
+  uri: https://www.wikidata.org/wiki/Q37562
+- label: Costantin Brancusi
+  uri: https://www.wikidata.org/wiki/Q153048
+- label: Umberto Boccioni
+  uri: https://www.wikidata.org/wiki/Q152797
+- label: Giovanni Fattori
+  uri: https://www.wikidata.org/wiki/Q710089
+- label: Edgar Degas
+  uri: https://www.wikidata.org/wiki/Q46373
+- Hans Holbein
+- label: Gioacchino Toma
+  uri: https://www.wikidata.org/wiki/Q3764856
+- label: Nicola Arnolfo
+  uri: https://www.wikidata.org/wiki/Q315249
+- label: Giovanni Pisano
+  uri: https://www.wikidata.org/wiki/Q314932
+- label: Jackson Pollock
   uri: Jackson Pollock
 - label: Raffaello Sanzio
   uri: Raphael
