@@ -1,12 +1,9 @@
 ---
-added: 2025-12-12 10&#58;12&#58;21.918358
-thumbnail: https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/full/112,/0/default.jpg
-title: ingres_GR
-user: MariaFrancesca6
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/manifest.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/manifest.json",
   "@type": "sc:Manifest",
   "label": "ingres_GR",
   "description": " Raimondi, Giuseppe. Quaderno manoscritto, &quot;I disegni &quot;romani&quot; di Ingres. Agosto 1958&quot;",
@@ -16,730 +13,912 @@ user: MariaFrancesca6
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr.json",
           "@type": "sc:Canvas",
           "label": "0001_Q_1958_23_0001_piatto_ant_r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/annotation/1.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/annotation/1.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0001Q1958230001piattoantr.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0001q1958230001piattoantr-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv.json",
           "@type": "sc:Canvas",
           "label": "0002_Q_1958_23_0002_risguardo_ant_v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/annotation/2.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/annotation/2.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0002Q1958230002risguardoantv.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0002q1958230002risguardoantv-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0003Q1958230003c1r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0003Q1958230003c1r.json",
           "@type": "sc:Canvas",
           "label": "0003_Q_1958_23_0003_c1r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0003Q1958230003c1r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0003Q1958230003c1r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0003Q1958230003c1r/annotation/3.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0003Q1958230003c1r/annotation/3.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0003Q1958230003c1r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0003Q1958230003c1r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0003Q1958230003c1r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0003Q1958230003c1r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0003Q1958230003c1r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0003Q1958230003c1r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0003q1958230003c1r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0004Q1958230004c1v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0004Q1958230004c1v.json",
           "@type": "sc:Canvas",
           "label": "0004_Q_1958_23_0004_c1v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0004Q1958230004c1v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0004Q1958230004c1v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0004Q1958230004c1v/annotation/4.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0004Q1958230004c1v/annotation/4.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0004Q1958230004c1v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0004Q1958230004c1v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0004Q1958230004c1v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0004Q1958230004c1v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0004Q1958230004c1v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0004Q1958230004c1v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0004q1958230004c1v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0005Q1958230005c2r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0005Q1958230005c2r.json",
           "@type": "sc:Canvas",
           "label": "0005_Q_1958_23_0005_c2r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0005Q1958230005c2r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0005Q1958230005c2r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0005Q1958230005c2r/annotation/5.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0005Q1958230005c2r/annotation/5.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0005Q1958230005c2r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0005Q1958230005c2r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0005Q1958230005c2r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0005Q1958230005c2r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0005Q1958230005c2r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0005Q1958230005c2r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0005q1958230005c2r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0006Q1958230006c2v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0006Q1958230006c2v.json",
           "@type": "sc:Canvas",
           "label": "0006_Q_1958_23_0006_c2v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0006Q1958230006c2v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0006Q1958230006c2v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0006Q1958230006c2v/annotation/6.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0006Q1958230006c2v/annotation/6.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0006Q1958230006c2v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0006Q1958230006c2v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0006Q1958230006c2v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0006Q1958230006c2v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0006Q1958230006c2v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0006Q1958230006c2v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0006q1958230006c2v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0007Q1958230007c3r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0007Q1958230007c3r.json",
           "@type": "sc:Canvas",
           "label": "0007_Q_1958_23_0007_c3r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0007Q1958230007c3r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0007Q1958230007c3r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0007Q1958230007c3r/annotation/7.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0007Q1958230007c3r/annotation/7.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0007Q1958230007c3r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0007Q1958230007c3r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0007Q1958230007c3r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0007Q1958230007c3r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0007Q1958230007c3r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0007Q1958230007c3r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0007q1958230007c3r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0008Q1958230008c3v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0008Q1958230008c3v.json",
           "@type": "sc:Canvas",
           "label": "0008_Q_1958_23_0008_c3v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0008Q1958230008c3v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0008Q1958230008c3v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0008Q1958230008c3v/annotation/8.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0008Q1958230008c3v/annotation/8.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0008Q1958230008c3v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0008Q1958230008c3v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0008Q1958230008c3v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0008Q1958230008c3v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0008Q1958230008c3v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0008Q1958230008c3v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0008q1958230008c3v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0009Q1958230009c4r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0009Q1958230009c4r.json",
           "@type": "sc:Canvas",
           "label": "0009_Q_1958_23_0009_c4r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0009Q1958230009c4r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0009Q1958230009c4r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0009Q1958230009c4r/annotation/9.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0009Q1958230009c4r/annotation/9.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0009Q1958230009c4r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0009Q1958230009c4r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0009Q1958230009c4r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0009Q1958230009c4r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0009Q1958230009c4r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0009Q1958230009c4r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0009q1958230009c4r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0010Q1958230010c4v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0010Q1958230010c4v.json",
           "@type": "sc:Canvas",
           "label": "0010_Q_1958_23_0010_c4v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0010Q1958230010c4v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0010Q1958230010c4v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0010Q1958230010c4v/annotation/10.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0010Q1958230010c4v/annotation/10.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0010Q1958230010c4v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0010Q1958230010c4v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0010Q1958230010c4v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0010Q1958230010c4v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0010Q1958230010c4v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0010Q1958230010c4v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0010q1958230010c4v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0011Q1958230011c5r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0011Q1958230011c5r.json",
           "@type": "sc:Canvas",
           "label": "0011_Q_1958_23_0011_c5r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0011Q1958230011c5r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0011Q1958230011c5r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0011Q1958230011c5r/annotation/11.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0011Q1958230011c5r/annotation/11.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0011Q1958230011c5r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0011Q1958230011c5r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0011Q1958230011c5r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0011Q1958230011c5r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0011Q1958230011c5r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0011Q1958230011c5r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0011q1958230011c5r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0012Q1958230012c5v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0012Q1958230012c5v.json",
           "@type": "sc:Canvas",
           "label": "0012_Q_1958_23_0012_c5v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0012Q1958230012c5v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0012Q1958230012c5v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0012Q1958230012c5v/annotation/12.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0012Q1958230012c5v/annotation/12.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0012Q1958230012c5v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0012Q1958230012c5v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0012Q1958230012c5v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0012Q1958230012c5v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0012Q1958230012c5v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0012Q1958230012c5v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0012q1958230012c5v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0013Q1958230013c6r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0013Q1958230013c6r.json",
           "@type": "sc:Canvas",
           "label": "0013_Q_1958_23_0013_c6r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0013Q1958230013c6r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0013Q1958230013c6r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0013Q1958230013c6r/annotation/13.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0013Q1958230013c6r/annotation/13.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0013Q1958230013c6r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0013Q1958230013c6r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0013Q1958230013c6r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0013Q1958230013c6r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0013Q1958230013c6r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0013Q1958230013c6r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0013q1958230013c6r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0014Q1958230014c6v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0014Q1958230014c6v.json",
           "@type": "sc:Canvas",
           "label": "0014_Q_1958_23_0014_c6v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0014Q1958230014c6v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0014Q1958230014c6v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0014Q1958230014c6v/annotation/14.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0014Q1958230014c6v/annotation/14.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0014Q1958230014c6v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0014Q1958230014c6v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0014Q1958230014c6v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0014Q1958230014c6v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0014Q1958230014c6v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0014Q1958230014c6v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0014q1958230014c6v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0015Q1958230015c7r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0015Q1958230015c7r.json",
           "@type": "sc:Canvas",
           "label": "0015_Q_1958_23_0015_c7r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0015Q1958230015c7r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0015Q1958230015c7r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0015Q1958230015c7r/annotation/15.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0015Q1958230015c7r/annotation/15.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0015Q1958230015c7r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0015Q1958230015c7r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0015Q1958230015c7r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0015Q1958230015c7r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0015Q1958230015c7r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0015Q1958230015c7r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0015q1958230015c7r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0016Q1958230016c7v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0016Q1958230016c7v.json",
           "@type": "sc:Canvas",
           "label": "0016_Q_1958_23_0016_c7v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0016Q1958230016c7v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0016Q1958230016c7v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0016Q1958230016c7v/annotation/16.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0016Q1958230016c7v/annotation/16.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0016Q1958230016c7v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0016Q1958230016c7v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0016Q1958230016c7v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0016Q1958230016c7v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0016Q1958230016c7v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0016Q1958230016c7v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0016q1958230016c7v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0017Q1958230017c8r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0017Q1958230017c8r.json",
           "@type": "sc:Canvas",
           "label": "0017_Q_1958_23_0017_c8r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0017Q1958230017c8r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0017Q1958230017c8r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0017Q1958230017c8r/annotation/17.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0017Q1958230017c8r/annotation/17.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0017Q1958230017c8r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0017Q1958230017c8r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0017Q1958230017c8r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0017Q1958230017c8r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0017Q1958230017c8r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0017Q1958230017c8r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0017q1958230017c8r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0018Q1958230018c8v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0018Q1958230018c8v.json",
           "@type": "sc:Canvas",
           "label": "0018_Q_1958_23_0018_c8v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0018Q1958230018c8v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0018Q1958230018c8v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0018Q1958230018c8v/annotation/18.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0018Q1958230018c8v/annotation/18.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0018Q1958230018c8v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0018Q1958230018c8v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0018Q1958230018c8v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0018Q1958230018c8v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0018Q1958230018c8v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0018Q1958230018c8v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0018q1958230018c8v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0019Q1958230019c9r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0019Q1958230019c9r.json",
           "@type": "sc:Canvas",
           "label": "0019_Q_1958_23_0019_c9r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0019Q1958230019c9r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0019Q1958230019c9r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0019Q1958230019c9r/annotation/19.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0019Q1958230019c9r/annotation/19.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0019Q1958230019c9r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0019Q1958230019c9r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0019Q1958230019c9r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0019Q1958230019c9r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0019Q1958230019c9r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0019Q1958230019c9r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0019q1958230019c9r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0020Q1958230020c9v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0020Q1958230020c9v.json",
           "@type": "sc:Canvas",
           "label": "0020_Q_1958_23_0020_c9v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0020Q1958230020c9v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0020Q1958230020c9v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0020Q1958230020c9v/annotation/20.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0020Q1958230020c9v/annotation/20.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0020Q1958230020c9v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0020Q1958230020c9v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0020Q1958230020c9v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0020Q1958230020c9v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0020Q1958230020c9v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0020Q1958230020c9v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0020q1958230020c9v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0021Q1958230021c10r.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0021Q1958230021c10r.json",
           "@type": "sc:Canvas",
           "label": "0021_Q_1958_23_0021_c10r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0021Q1958230021c10r/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0021Q1958230021c10r/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0021Q1958230021c10r/annotation/21.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0021Q1958230021c10r/annotation/21.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0021Q1958230021c10r/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0021Q1958230021c10r/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0021Q1958230021c10r",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0021Q1958230021c10r",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0021Q1958230021c10r.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0021Q1958230021c10r.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0021q1958230021c10r-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0022Q1958230022c10v.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0022Q1958230022c10v.json",
           "@type": "sc:Canvas",
           "label": "0022_Q_1958_23_0022_c10v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0022Q1958230022c10v/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0022Q1958230022c10v/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0022Q1958230022c10v/annotation/22.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0022Q1958230022c10v/annotation/22.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0022Q1958230022c10v/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0022Q1958230022c10v/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0022Q1958230022c10v",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0022Q1958230022c10v",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0022Q1958230022c10v.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0022Q1958230022c10v.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0022q1958230022c10v-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr.json",
           "@type": "sc:Canvas",
           "label": "0023_Q_1958_23_0023_risguardo_post_r",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/annotation/23.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/annotation/23.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0023Q1958230023risguardopostr.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0023q1958230023risguardopostr-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv.json",
           "@type": "sc:Canvas",
           "label": "0024_Q_1958_23_0024_piatto_post_v",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/full/112,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/full/112,/0/default.jpg",
           "height": 2548,
           "width": 1798,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/annotation/24.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/annotation/24.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2548,
                 "width": 1798,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0024Q1958230024piattopostv.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0024q1958230024piattopostv-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0025Q1958230025colori.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0025Q1958230025colori.json",
           "@type": "sc:Canvas",
           "label": "0025_Q_1958_23_0025_colori",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0025Q1958230025colori/full/128,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0025Q1958230025colori/full/128,/0/default.jpg",
           "height": 2819,
           "width": 2048,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0025Q1958230025colori/annotation/25.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0025Q1958230025colori/annotation/25.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0025Q1958230025colori/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0025Q1958230025colori/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2819,
                 "width": 2048,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0025Q1958230025colori",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0025Q1958230025colori",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0025Q1958230025colori.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0025Q1958230025colori.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0025q1958230025colori-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         },
         {
-          "@id": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0026Q1958230026scala.json",
+          "@id": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0026Q1958230026scala.json",
           "@type": "sc:Canvas",
           "label": "0026_Q_1958_23_0026_scala",
-          "thumbnail": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0026Q1958230026scala/full/128,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0026Q1958230026scala/full/128,/0/default.jpg",
           "height": 2819,
           "width": 2048,
           "images": [
             {
-              "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0026Q1958230026scala/annotation/26.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0026Q1958230026scala/annotation/26.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0026Q1958230026scala/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0026Q1958230026scala/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2819,
                 "width": 2048,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://mariafrancesca6.github.io/GR-ek/img/derivatives/iiif/ingresgr/0026Q1958230026scala",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ingresgr/0026Q1958230026scala",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://mariafrancesca6.github.io/GR-ek/canvas/img/derivatives/iiif/ingresgr/0026Q1958230026scala.json"
+              "on": "{{ '/' | absolute_url }}canvas/img/derivatives/iiif/ingresgr/0026Q1958230026scala.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/mariafrancesca6-github-io-0026q1958230026scala-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         }
