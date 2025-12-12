@@ -55,3 +55,178 @@ images:
   user: MariaFrancesca6
 settings: {}
 version: '2.1'
+vocab:
+- label: Jackson Pollock
+  uri: Jackson Pollock
+- label: Raffaello Sanzio
+  uri: Raphael
+- label: Guido Reni
+  uri: Guido Reni
+- label: Cimabue
+  uri: Cimabue
+- label: Giorgio Morandi
+  uri: Giorgio Morandi
+- label: El Greco
+  uri: El Greco
+- label: Henri Rousseau
+  uri: Henri Rousseau
+- label: Denijs Calvaert
+  uri: Denys Calvaert
+- label: Carracci
+  uri: Carracci
+- label: Annibale Carracci
+  uri: Annibale Carracci
+- label: Francesco Albani
+  uri: Francesco Albani
+- label: Domenico Zampieri detto il Domenichino
+  uri: Domenichino
+- label: Michelangelo da Caravaggio
+  uri: Caravaggio
+- label: Peter Paul Rubens
+  uri: Peter Paul Rubens
+- label: Gustave Courbet
+  uri: Gustave Courbet
+- label: Jean-Auguste-Dominique Ingres
+  uri: Jean-Auguste-Dominique Ingres
+- label: Piero della Francesca
+  uri: Piero della Francesca
+- label: Lorenzo Lotto
+  uri: Lorenzo Lotto
+- label: Beato Angelico
+  uri: Fra Angelico
+- label: Jusepe de Ribera
+  uri: Jusepe de Ribera
+- label: Giovanni Battista Caracciolo
+  uri: Battistello Caracciolo
+- label: Bernardo Cavallino
+  uri: Bernardo Cavallino
+- label: Giulio Romano
+  uri: Giulio Romano
+- label: Antoon van Dyck
+  uri: Anthony van Dyck
+- label: Sofonisba Anguissola
+  uri: Sofonisba Anguissola
+- label: Albrecht Durer
+  uri: "Albrecht D\xFCrer"
+- label: Ludovico Carracci
+  uri: Ludovico Carracci
+- label: Giovanni Giacomo Sementi
+  uri: Giovanni Giacomo Semenza
+- label: Francesco Gessi
+  uri: Francesco Gessi
+- label: Rembrandt
+  uri: Rembrandt
+- label: Pontormo
+  uri: Pontormo
+- label: Leonardo da Vinci
+  uri: Leonardo da Vinci
+- label: Michelangelo Buonarroti
+  uri: Michelangelo
+- label: Filippo De Pisis (Luigi Filippo Tibertelli)
+  uri: Filippo De Pisis
+- label: Rosso Fiorentino
+  uri: Rosso Fiorentino
+- label: Francesco Mazzola detto il Parmigianino
+  uri: Parmigianino
+- label: Domenico Beccafumi
+  uri: Domenico Beccafumi
+- label: Cennino Cennini
+  uri: Cennino Cennini
+- label: Maso di Banco
+  uri: Maso di Banco
+- label: Giottino
+  uri: Giottino
+- label: Andrea Orcagna
+  uri: Orcagna
+- label: Giotto
+  uri: Giotto
+- label: Paolo Uccello
+  uri: Paolo Uccello
+- label: Filippo Lippi
+  uri: Filippo Lippi
+- label: Sandro Botticelli
+  uri: Sandro Botticelli
+- label: Maestro del Chiostro degli Aranci (Giovanni di Consalvo)
+  uri: "Jo\xE3o Gon\xE7alves"
+- label: Amedeo Modigliani
+  uri: Amedeo Modigliani
+- label: "Carlo Carr\xE0"
+  uri: "Carlo Carr\xE0"
+- label: "Andr\xE8 Derain"
+  uri: "Andr\xE9 Derain"
+- label: Giorgio De Chirico
+  uri: Giorgio de Chirico
+- label: Alberto Savinio
+  uri: Alberto Savinio
+- label: Pablo Picasso
+  uri: Pablo Picasso
+- label: Nicolas Poussin
+  uri: Nicolas Poussin
+- label: Claude Lorrain
+  uri: Claude Lorrain
+- label: "Jean-Honor\xE9 Fragonard"
+  uri: "Jean-Honor\xE9 Fragonard"
+- label: Hubert Robert
+  uri: Hubert Robert
+- label: Jacques-Louis David
+  uri: Jacques-Louis David
+- label: "Th\xE9odore G\xE9ricault"
+  uri: "Th\xE9odore G\xE9ricault"
+- label: Jean-Baptiste Camille Corot
+  uri: Jean-Baptiste Camille Corot
+- label: Pierre-Auguste Renoir
+  uri: Pierre-Auguste Renoir
+- label: "Diego Vel\xE1zquez"
+  uri: "Diego Vel\xE1zquez"
+- label: "Eug\xE8ne Delacroix"
+  uri: "Eug\xE8ne Delacroix"
+- label: Antonio Allegri detto il Correggio
+  uri: Antonio da Correggio
+- label: Jean-Baptiste Greuze
+  uri: Jean-Baptiste Greuze
+- label: "Fran\xE7ois Boucher"
+  uri: "Fran\xE7ois Boucher"
+- label: Pisanello
+  uri: Pisanello
+- label: Jean de Bruges
+  uri: Jean de Bruges
+- label: Lorenzo Bartolini
+  uri: Lorenzo Bartolini
+- label: Andrea del Sarto
+  uri: Andrea del Sarto
+- label: Fra Bartolomeo
+  uri: Fra Bartolomeo
+- label: Francesco Salviati
+  uri: Francesco Salviati
+- label: Agnolo Bronzino
+  uri: Bronzino
+- label: Masaccio
+  uri: Masaccio
+- label: "Fran\xE7ois Marius Granet"
+  uri: "Fran\xE7ois Marius Granet"
+- label: "Paul C\xE9zanne"
+  uri: "Paul C\xE9zanne"
+- label: Auguste Comte
+  uri: Auguste Comte
+- label: "Honor\xE9 Daumier"
+  uri: "Honor\xE9 Daumier"
+- label: "Francisco de Zurbar\xE1n"
+  uri: "Francisco de Zurbar\xE1n"
+- label: Donatello
+  uri: Donatello
+- label: Costantin Brancusi
+  uri: "Constantin Br\xE2ncu\u0219i"
+- label: Umberto Boccioni
+  uri: Umberto Boccioni
+- label: Giovanni Fattori
+  uri: Giovanni Fattori
+- label: Edgar Degas
+  uri: Edgar Degas
+- label: Hans Holbein
+  uri: Hans Holbein
+- label: Gioacchino Toma
+  uri: Gioacchino Toma
+- label: Nicola Arnolfo
+  uri: Arnolfo di Cambio
+- label: Giovanni Pisano
+  uri: Giovanni Pisano
