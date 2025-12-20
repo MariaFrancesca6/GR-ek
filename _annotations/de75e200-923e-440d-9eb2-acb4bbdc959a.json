@@ -1,0 +1,58 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p3"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:09:19.642Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Madonna in trono con il Bambino di Cimabue, Chiesa dei Servi, Bologna",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:09:21.086Z",
+            "modified": "2025-12-20T17:09:49.744Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "pb",
+            "purpose": "tagging",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:10:39.380Z",
+            "modified": "2025-12-20T17:10:39.561Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p3",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1448.87060546875,1859.4591064453125 1616.7484130859375,1865.1497802734375 1618.1710205078125,2121.234375 154.22044372558594,2121.234375 154.22044372558594,1924.90283203125 1421.83935546875,1933.4390869140625\"></polygon></svg>"
+        }
+    },
+    "id": "de75e200-923e-440d-9eb2-acb4bbdc959a.json",
+    "motivation": "commenting"
+}
