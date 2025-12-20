@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "GR-GuidoReni",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://mariafrancesca6.github.io/GR-ek/annotations/2-19321-p3-list.json'></iiif-storyboard>",
+            "title": "ek1_GuidoReni",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
