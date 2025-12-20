@@ -15,6 +15,17 @@ order: 1
             "purpose": "identifying",
             "type": "TextualBody",
             "value": "La Fornarina di Raffaello"
+        },
+        {
+            "type": "TextualBody",
+            "value": "ekph",
+            "purpose": "tagging",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T16:15:04.761Z",
+            "modified": "2025-12-20T16:15:06.077Z"
         }
     ],
     "id": "ac660180-5906-41a1-9f83-047172ae5e52.json",
