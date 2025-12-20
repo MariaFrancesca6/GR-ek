@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:44:09.151Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "San Giovanni Battista (di Torino) di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:44:10.909Z",
+            "modified": "2025-12-20T17:44:29.476Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1659.4290771484375,1159.494384765625 1611.0574951171875,1159.494384765625 1609.634765625,1156.64892578125 1618.1710205078125,1224.938232421875 205.4373779296875,1233.474365234375 205.4373779296875,1297.4954833984375 1451.7159423828125,1288.9593505859375 1443.1798095703125,1242.010498046875 1665.119873046875,1237.742431640625\"></polygon></svg>"
+        }
+    },
+    "id": "921dd5d0-2bbb-4e6b-b4a9-1383f3d35e0f.json",
+    "motivation": "commenting"
+}
