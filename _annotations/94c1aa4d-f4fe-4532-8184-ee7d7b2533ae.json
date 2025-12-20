@@ -17,15 +17,15 @@ order: 1
             "value": "Una testa di Madonna di Raffaello"
         },
         {
-            "type": "TextualBody",
-            "value": "ekph",
-            "purpose": "tagging",
+            "created": "2025-12-20T16:14:07.203Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T16:14:07.203Z",
-            "modified": "2025-12-20T16:14:19.279Z"
+            "modified": "2025-12-20T16:14:19.279Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "ekph"
         }
     ],
     "id": "94c1aa4d-f4fe-4532-8184-ee7d7b2533ae.json",
