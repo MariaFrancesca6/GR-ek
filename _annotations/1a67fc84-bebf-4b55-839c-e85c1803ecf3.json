@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:37:19.704Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Sansone di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:37:24.583Z",
+            "modified": "2025-12-20T17:37:31.341Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"632.2451171875,772.52197265625 1619.59375,781.0581665039062 1630.9752197265625,934.7089233398438 640.78125,926.1727905273438 649.3174438476562,1002.9981689453125 145.68429565429688,1007.2662353515625 154.22044372558594,849.347412109375 632.2451171875,840.8112182617188\"></polygon></svg>"
+        }
+    },
+    "id": "1a67fc84-bebf-4b55-839c-e85c1803ecf3.json",
+    "motivation": "commenting"
+}
