@@ -17,24 +17,20 @@ order: 1
             "value": "Fotografie che ritraggono Jackson Pollock presenti all'interno del volume di Robertson"
         },
         {
-            "type": "TextualBody",
-            "value": "ekph",
-            "purpose": "tagging",
+            "created": "2025-12-20T16:14:31.013Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T16:14:31.013Z",
-            "modified": "2025-12-20T16:14:42.496Z"
+            "modified": "2025-12-20T16:14:42.496Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "ekph"
         }
     ],
     "id": "f16ef878-85c7-4474-9987-5d81d21207d5.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"385,548.8 1671.8,563.5 1671.8,856.4 213.4,859.4 213.4,628.6 386.5,628.6\"></polygon></svg>"
-        },
         "source": {
             "partOf": {
                 "id": "https://dl.ficlit.unibo.it/iiif/19266/manifest",
@@ -42,6 +38,10 @@ order: 1
             },
             "id": "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p16",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"385,548.8 1671.8,563.5 1671.8,856.4 195.5,867.5 195.5,631.6 386.5,628.6\"></polygon></svg>"
         }
     },
     "type": "Annotation"
