@@ -4,31 +4,47 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "ekph",
+            "created": "2025-12-20T17:26:44.698Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T17:26:44.698Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "ekph"
+        },
+        {
+            "created": "2025-12-20T17:26:47.573Z",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "modified": "2025-12-20T17:26:47.739Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "pb"
         },
         {
             "type": "TextualBody",
-            "value": "pb",
-            "purpose": "tagging",
+            "value": "Varie opere di Guido Reni sono narrate in un'ekphrasis \"cumulativa\": Salom\u00e8, Lucrezia, Maddalena",
+            "purpose": "identifying",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T17:26:47.573Z",
-            "modified": "2025-12-20T17:26:47.739Z"
+            "created": "2025-12-20T17:27:27.901Z",
+            "modified": "2025-12-20T17:27:31.233Z"
         }
     ],
+    "id": "dcf78c75-e613-4e75-9fcf-764a2a4c1cff.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1332.2098388671875,1620.44677734375 171.29275512695312,1665.9730224609375 162.75660705566406,482.292724609375 1656.5836181640625,473.756591796875 1665.119873046875,1562.1163330078125 1332.2098388671875,1562.1163330078125\"></polygon></svg>"
+        },
         "source": {
             "partOf": {
                 "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
@@ -36,12 +52,7 @@ order: 1
             },
             "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p10",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1332.2098388671875,1620.44677734375 171.29275512695312,1665.9730224609375 162.75660705566406,482.292724609375 1656.5836181640625,473.756591796875 1665.119873046875,1562.1163330078125 1332.2098388671875,1562.1163330078125\"></polygon></svg>"
         }
     },
-    "id": "dcf78c75-e613-4e75-9fcf-764a2a4c1cff.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
