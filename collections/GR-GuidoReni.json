@@ -9,6 +9,12 @@
             "title": "ek1_GuidoReni",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://mariafrancesca6.github.io/GR-ek/annotations/2-19321-p4-list.json'></iiif-storyboard>",
+            "title": "ek2_GuidoReni",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
