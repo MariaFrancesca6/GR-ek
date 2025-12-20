@@ -1,0 +1,36 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p16"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "integration",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T16:34:14.905Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19266/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p16",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1529.848876953125,628.6303100585938 1654.0958251953125,628.6303100585938 1651.137451171875,625.6719360351562 1651.137451171875,776.543212890625 484.10400390625,785.41796875 488.5413818359375,838.6666259765625 222.29800415039062,847.5414428710938 222.29800415039062,767.6683959960938 222.29800415039062,723.2944946289062 1535.765380859375,701.1075439453125\"></polygon></svg>"
+        }
+    },
+    "id": "07a8edf5-a66d-41a4-82cb-73f9e77b7e43.json",
+    "motivation": "commenting"
+}
