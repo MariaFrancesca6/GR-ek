@@ -21,6 +21,12 @@
             "title": "ek3_GuidoReni",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://mariafrancesca6.github.io/GR-ek/annotations/2-19321-p21-list.json'></iiif-storyboard>",
+            "title": "ek4_GuidoReni",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
