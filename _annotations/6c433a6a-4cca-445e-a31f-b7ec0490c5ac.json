@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Apollo e Marsia di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:40:41.148Z",
+            "modified": "2025-12-20T17:40:52.624Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:40:56.055Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"495.6666259765625,1387.1251220703125 1630.9752197265625,1389.9705810546875 1635.2432861328125,1856.6136474609375 1323.673583984375,1856.6136474609375 1319.405517578125,1822.468994140625 154.22044372558594,1843.8094482421875 162.75660705566406,1455.4144287109375 495.6666259765625,1451.146240234375\"></polygon></svg>"
+        }
+    },
+    "id": "6c433a6a-4cca-445e-a31f-b7ec0490c5ac.json",
+    "motivation": "commenting"
+}
