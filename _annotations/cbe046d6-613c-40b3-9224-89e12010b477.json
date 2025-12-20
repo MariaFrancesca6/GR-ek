@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:38:17.000Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Ippomene e Atalanta di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:38:21.699Z",
+            "modified": "2025-12-20T17:38:32.575Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"663.5443725585938,994.4620361328125 660.6990356445312,934.7089233398438 1635.2432861328125,947.51318359375 1635.2432861328125,1088.3597412109375 589.5643310546875,1088.3597412109375 418.84124755859375,1096.8958740234375 414.5731506347656,1160.9169921875 162.75660705566406,1160.9169921875 145.68429565429688,1028.606689453125\"></polygon></svg>"
+        }
+    },
+    "id": "cbe046d6-613c-40b3-9224-89e12010b477.json",
+    "motivation": "commenting"
+}
