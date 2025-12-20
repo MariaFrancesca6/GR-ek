@@ -17,24 +17,20 @@ order: 1
             "value": "La Fornarina di Raffaello"
         },
         {
-            "type": "TextualBody",
-            "value": "ekph",
-            "purpose": "tagging",
+            "created": "2025-12-20T16:15:04.761Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T16:15:04.761Z",
-            "modified": "2025-12-20T16:15:06.077Z"
+            "modified": "2025-12-20T16:15:06.077Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "ekph"
         }
     ],
     "id": "ac660180-5906-41a1-9f83-047172ae5e52.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"997.3621215820312,480.7172546386719 1556.4732666015625,480.7172546386719 1584.57666015625,1641.8341064453125 1367.14453125,1641.8341064453125 1376.019287109375,1699.520263671875 133.5502166748047,1708.39501953125 133.5502166748047,563.5484619140625 998.8411865234375,559.111083984375\"></polygon></svg>"
-        },
         "source": {
             "partOf": {
                 "id": "https://dl.ficlit.unibo.it/iiif/19266/manifest",
@@ -42,6 +38,10 @@ order: 1
             },
             "id": "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p19",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"985.4,488.7 1593.5,467.4 1606.8,1638.9 1402.6,1647.8 1416,1709.9 120.2,1718.7 121.6,559.6 972.1,550.7\"></polygon></svg>"
         }
     },
     "type": "Annotation"
