@@ -1,0 +1,48 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p18"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ek",
+            "purpose": "tagging",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T16:08:37.583Z",
+            "modified": "2025-12-20T16:08:37.785Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Una testa di Madonna di Raffaello",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T16:09:06.883Z",
+            "modified": "2025-12-20T16:09:13.508Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19266/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p18",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"216.38150024414062,462.9676818847656 240.0475616455078,462.9676818847656 1660.01220703125,461.488525390625 1664.4495849609375,1326.779541015625 1171.8994140625,1317.9046630859375 1180.774169921875,1388.9029541015625 204.54844665527344,1402.215087890625\"></polygon></svg>"
+        }
+    },
+    "id": "731bf4f6-74e2-481c-aab8-03d1f78bb6e4.json",
+    "motivation": "commenting"
+}
