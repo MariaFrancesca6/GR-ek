@@ -31,10 +31,6 @@ order: 1
     "id": "94c1aa4d-f4fe-4532-8184-ee7d7b2533ae.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"124.7,557.6 138,1476.2 994.4,1467.2 994.4,1391.9 1602.3,1387.4 1589,544.3\"></polygon></svg>"
-        },
         "source": {
             "partOf": {
                 "id": "https://dl.ficlit.unibo.it/iiif/19266/manifest",
@@ -42,6 +38,10 @@ order: 1
             },
             "id": "https://dl.ficlit.unibo.it/iiif/2/19266/canvas/p15",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"124.7,557.6 133.6,1488 1016.6,1474.7 1016.6,1403.7 1602.3,1387.4 1589,544.3\"></polygon></svg>"
         }
     },
     "type": "Annotation"
