@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p9"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:21:46.704Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Il Ratto di Europa di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:21:48.193Z",
+            "modified": "2025-12-20T17:22:01.648Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p9",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1389.1175537109375,2015.955322265625 159.9112548828125,2010.264404296875 159.9112548828125,1873.68603515625 1376.3133544921875,1882.22216796875 1372.045166015625,1796.860595703125 1628.1298828125,1805.396728515625 1632.39794921875,2014.5325927734375 1628.1298828125,2005.996337890625\"></polygon></svg>"
+        }
+    },
+    "id": "23d52026-8dc7-4cbf-bda1-dcd2492ebcd2.json",
+    "motivation": "commenting"
+}
