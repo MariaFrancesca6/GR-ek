@@ -4,31 +4,32 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Fotografie che ritraggono Jackson Pollock presenti all'interno del volume di Robertson",
-            "purpose": "identifying",
+            "created": "2025-12-20T16:01:05.164Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T16:01:05.164Z",
-            "modified": "2025-12-20T16:01:31.884Z"
+            "modified": "2025-12-20T16:01:31.884Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "Fotografie che ritraggono Jackson Pollock presenti all'interno del volume di Robertson"
         },
         {
-            "type": "TextualBody",
-            "value": "ek",
-            "purpose": "tagging",
+            "created": "2025-12-20T16:01:34.464Z",
             "creator": {
                 "id": "MariaFrancesca6",
                 "name": "MariaFrancesca6"
             },
-            "created": "2025-12-20T16:01:34.464Z",
-            "modified": "2025-12-20T16:01:35.813Z"
+            "modified": "2025-12-20T16:01:35.813Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "ek"
         }
     ],
+    "id": "f16ef878-85c7-4474-9987-5d81d21207d5.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -40,9 +41,8 @@ order: 1
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"385.0023193359375,548.7571411132812 1654.0958251953125,554.6737060546875 1664.4495849609375,859.3743896484375 213.4232177734375,859.3743896484375 213.4232177734375,628.630126953125 386.4814147949219,628.630126953125\"></polygon></svg>"
+            "value": "<svg><polygon points=\"385,548.8 1671.8,563.5 1664.4,859.4 213.4,859.4 213.4,628.6 386.5,628.6\"></polygon></svg>"
         }
     },
-    "id": "f16ef878-85c7-4474-9987-5d81d21207d5.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
