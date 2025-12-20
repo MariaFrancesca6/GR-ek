@@ -45,6 +45,12 @@
             "title": "ek3_PollockRaffaello",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://mariafrancesca6.github.io/GR-ek/annotations/2-19266-p19-list.json'></iiif-storyboard>",
+            "title": "ek4_PollockRaffaello",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
