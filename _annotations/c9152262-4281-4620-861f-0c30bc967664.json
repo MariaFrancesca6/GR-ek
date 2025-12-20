@@ -1,0 +1,57 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p9"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:24:39.647Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Varie opere di Guido Reni sono narrate in un'ekphrasis \"cumulativa\":\nSalom\u00e8, Lucrezia, Maddalena",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:24:50.501Z",
+            "modified": "2025-12-20T17:25:50.989Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "pb",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:25:54.777Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p9",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"165.60194396972656,2021.64599609375 1613.9029541015625,2030.18212890625 1633.820556640625,2132.615966796875 174.1381072998047,2124.079833984375\"></polygon></svg>"
+        }
+    },
+    "id": "c9152262-4281-4620-861f-0c30bc967664.json",
+    "motivation": "commenting"
+}
