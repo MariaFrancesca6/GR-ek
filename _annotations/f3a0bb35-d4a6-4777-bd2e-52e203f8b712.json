@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:46:14.998Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Cleopatra (di Pitti) di Guido Reni",
+            "purpose": "identifying",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:46:17.043Z",
+            "modified": "2025-12-20T17:46:32.876Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"620.8635864257812,1742.79833984375 202.59202575683594,1759.87060546875 205.4373779296875,1321.6812744140625 1460.2520751953125,1296.07275390625 1464.5201416015625,1249.1239013671875 1677.924072265625,1232.0516357421875 1673.656005859375,1680.19970703125 623.7089233398438,1684.4677734375\"></polygon></svg>"
+        }
+    },
+    "id": "f3a0bb35-d4a6-4777-bd2e-52e203f8b712.json",
+    "motivation": "commenting"
+}
