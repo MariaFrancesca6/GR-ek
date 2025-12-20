@@ -41,7 +41,7 @@ order: 1
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"385,548.8 1671.8,563.5 1664.4,859.4 213.4,859.4 213.4,628.6 386.5,628.6\"></polygon></svg>"
+            "value": "<svg><polygon points=\"385,548.8 1671.8,563.5 1671.8,856.4 213.4,859.4 213.4,628.6 386.5,628.6\"></polygon></svg>"
         }
     },
     "type": "Annotation"
