@@ -1,0 +1,47 @@
+---
+canvas: "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "ekph",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:43:08.844Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "San Giovanni Battista (di Londra) di Guido Reni",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MariaFrancesca6",
+                "name": "MariaFrancesca6"
+            },
+            "created": "2025-12-20T17:43:14.920Z",
+            "modified": "2025-12-20T17:43:34.924Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ficlit.unibo.it/iiif/19321/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ficlit.unibo.it/iiif/2/19321/canvas/p24",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1471.6337890625,920.4821166992188 1653.73828125,923.3274536132812 1656.5836181640625,1139.57666015625 1596.83056640625,1148.11279296875 1605.36669921875,1212.1339111328125 196.90121459960938,1229.206298828125 205.4373779296875,990.1939697265625 1477.324462890625,985.9258422851562\"></polygon></svg>"
+        }
+    },
+    "id": "a64d0298-fc09-42fc-beaf-222720808302.json",
+    "motivation": "commenting"
+}
